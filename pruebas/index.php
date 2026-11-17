@@ -1,2 +1,2 @@
 <?php
-echo 'Inventario - versión 2';
+echo 'Inventario - versión 3';
